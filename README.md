@@ -8,6 +8,8 @@ Aspartam is a beautiful and responsive Tumblr theme.
 
 http://aspartam-theme.tumblr.com/
 
+Aspartam powers incredible sites like BBC's [Made By You](http://www.bbc.co.uk/taster/projects/bbc-taster-made-by-you) and @edent's [FiverFun](https://fiverfun.tumblr.com)
+
 ## Features
 
 Aspartam gives you a responsive grid with infinite scrolling.  Mobile friendly and fast.
